@@ -1,5 +1,6 @@
 # Create a container image for the NodeJS sample app
 # See http://docs.microsoft.com/vsts/pipelines/languages/docker for more information
+lkjfdsalkjadsflkjhafdslkjhalkfdshjfd
 FROM node:boron
 
 # Create app directory
